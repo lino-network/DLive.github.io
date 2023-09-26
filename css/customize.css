@@ -1,0 +1,35 @@
+.flexCon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mainHeaderCon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.pressCon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linosocial {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.validate {
+    /*margin: 0 auto;*/
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    justify-content: center;
+}
